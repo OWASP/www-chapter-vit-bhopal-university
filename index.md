@@ -5,7 +5,7 @@ title: OWASP VIT Bhopal University - Student Chapter
 tags: owasp-VITBhopal
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-vit-bhopal-student-chapter
 
 ---
 
