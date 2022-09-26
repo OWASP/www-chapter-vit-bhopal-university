@@ -5,7 +5,7 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-vit-bhopal-student-chapter/)
-* [Discord](https://discord.gg/B7B5JHcNQk)
+* [Discord](https://discord.gg/9hjVhyEB)
 * [Instagram](https://www.instagram.com/owaspvitbhopal/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-vit-bhopal-university/)
 * [Twitter](https://twitter.com/OwaspVitBhopal)
