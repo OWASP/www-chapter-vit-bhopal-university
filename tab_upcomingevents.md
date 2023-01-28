@@ -11,6 +11,6 @@ tags: owasp-VITBhopal
 
 ## Upcoming Events
 
-| Title | Agenda | Location/URL | Date & Time |
-| --- | --- | --- | --- |
-|     |      |     |     |
+| Title | Agenda | Location/URL | Date & Time | Speaker
+| --- | --- | --- | --- | --- |
+|     |      |     |     |    |
