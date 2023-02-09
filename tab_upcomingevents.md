@@ -13,4 +13,4 @@ tags: owasp-VITBhopal
 
 | Title | Agenda | Location/URL | Date & Time | Speaker
 | --- | --- | --- | --- | --- |
-| Cy-VITya | Cyber Security Event held as part of AdVITya, the annual fest of VIT Bhopal | [https://tinyurl.com/cyvityareg](https://tinyurl.com/cyvityareg) | 10/02/2023 : 10:00 AM to 1:00 PM | Dipanshu Parashar |
+| Cy-VITya | Cyber Security Event held as part of AdVITya, the annual fest of VIT Bhopal | [https://tinyurl.com/OWASP-CyVITya-Youtube](https://tinyurl.com/OWASP-CyVITya-Youtube) | 10/02/2023 : 10:00 AM to 1:00 PM | Urvesh Thakkar |
