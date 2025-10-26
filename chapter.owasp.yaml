@@ -1,0 +1,27 @@
+leaders:
+  - name: Nehal Zaman
+    email: nehal.zaman@owasp.org
+  - name: Saravanan Devaraj
+    email: saravanan.devaraj@owasp.org
+  - name: Ayush Juneja
+    email: ayush.juneja@owasp.org
+  - name: Sanidhya Soni
+    email: sanidhya.soni@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Madhya Pradesh
+  city: Bhopal
+  latitude: 23.2584857
+  longitude: 77.401989
+meetup_group: owasp-vit-bhopal-student-chapter
+name: OWASP VIT Bhopal University - Student Chapter
+repositories:
+  - name: www-chapter-vit-bhopal-university
+    url: https://github.com/OWASP/www-chapter-vit-bhopal-university
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-VITBhopal
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-vit-bhopal-university
