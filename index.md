@@ -26,3 +26,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
+## Supporters
+The organisation supporting the OWASP VIT Bhopal chapter: HackerDNA
+<a href="https://hackerdna.com/"> <img width="508" alt="HackerDNA" src="https://raw.githubusercontent.com/OWASP/www-chapter-vit-bhopal-university/refs/heads/main/assets/images/logo-full-588-dark.png"> </a>
