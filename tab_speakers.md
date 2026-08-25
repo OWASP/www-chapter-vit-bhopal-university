@@ -10,8 +10,8 @@ tags: owasp-VITBhopal
 ## Speakers
 
 Would you like to speak on the upcoming OWASP VIT Bhopal University Webinar? Share your profile in the following format to
-- [Priya Sharma](mailto:priya.sharma@owasp.org) (Reg participation)
-- [Nehal Zaman](mailto:nehal.zaman@owasp.org) (Reg queries)
+- [Sanidhya Soni](mailto:sanidhyasoni2022@vitbhopal.ac.in) (Reg participation)
+- [OWASP VIT Bhopal](mailto:owaspclub@vitbhopal.ac.in) (Reg queries)
 
 
 **Email Format :**
